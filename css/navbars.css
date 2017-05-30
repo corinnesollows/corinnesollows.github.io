@@ -26,6 +26,8 @@
 }
 .navbar .nav .imga{
     margin-top: 5px;
+    height:10%;
+    width:auto;
 }
 .bottomnav{
     text-align:center;

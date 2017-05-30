@@ -44,13 +44,7 @@ body {
     font-style:normal;
     text-decoration:none;
 }
-/*Large Screen for About*/
-@media screen and (min-width: 2500px) {
-      .news  .smartpicture img{
-        width:700px;
-        height:300px;
-    }
-}
+
 /*Mobile Version of About page*/
 @media 
 only screen and (max-width: 760px),
